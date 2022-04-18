@@ -20,7 +20,7 @@ const Navbar = () => {
             <button className='link-btn'>company</button>
           </li>
         </ul>
-        <button className='btn sigin-btn'>sign in</button>
+        <button className='btn signin-btn'>sign in</button>
       </div>
     </nav>
   );
